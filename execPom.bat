@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=modelMock.jar -DgroupId=com.jm.model -DartifactId=modelMock -Dversion=0.0.1 -Dpackaging=jar

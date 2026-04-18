@@ -1,0 +1,1 @@
+java -jar target/restdummy-0.0.1.jar

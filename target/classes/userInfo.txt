@@ -1,0 +1,3 @@
+johntc00,tc4567|mgr,admin
+jack1234,tc4567|mgr,admin
+karen123,karen|user,guest
