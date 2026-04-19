@@ -1,1 +1,2 @@
-git clone https
+git init
+git clone https://github.com/johncheng51/test.git
