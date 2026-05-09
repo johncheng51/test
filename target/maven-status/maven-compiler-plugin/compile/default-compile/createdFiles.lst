@@ -1,0 +1,4 @@
+com\jm\controllers\DummyController.class
+com\jm\Application.class
+com\jm\config\SwaggerConfig.class
+com\jm\model\UserInfo.class
